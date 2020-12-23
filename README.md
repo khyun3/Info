@@ -7,8 +7,8 @@
 
 
 <h2>Current project</h2><br/>
-<a href="https://github.com/upswp/-Project-HelloProblem">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=upswp&repo=-Project-HelloProblem" />
+<a href="https://github.com/upswp/SOLAFY">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=upswp&SOLAFY" />
 </a>
 
 <h2>Algorithm Solution</h2><br/>
